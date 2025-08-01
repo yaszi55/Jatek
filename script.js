@@ -5,7 +5,7 @@ const gap = 1;
 const orangeSquares = [];
 const yellowSquares = [];
 const magyarABC = "AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ";
-const jokerChar = "*******AAEEE";
+const jokerChar = "***AAEE";
 let currentRound = 0;
 let totalScore = 0;
 let timerInterval;
